@@ -1,0 +1,6 @@
+{
+  "name": "Toro Business Manager",
+  "description": "An elegant dashboard with secure, real-time Google Sheets database sync to manage Toro records (ID, Name, Address, Phone number).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
