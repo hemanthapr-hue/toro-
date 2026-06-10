@@ -75,7 +75,7 @@ export const Dashboard: React.FC<DashboardProps> = ({
         {/* Total Registered contacts */}
         <div id="stats-total-records" className="bg-[#121214] border border-slate-800/80 p-6 rounded-xl transition-all flex items-start justify-between">
           <div className="space-y-2">
-            <p className="text-[10px] font-bold uppercase tracking-wider text-slate-505 text-slate-500">
+            <p className="text-[10px] font-bold uppercase tracking-wider text-slate-500">
               Total Database Records
             </p>
             <h3 className="text-2xl font-bold text-slate-100 font-mono">

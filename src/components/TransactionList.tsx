@@ -91,7 +91,7 @@ export const TransactionList: React.FC<TransactionListProps> = ({
         <div id="empty-state-list" className="h-48 flex flex-col items-center justify-center text-center p-6 border border-dashed border-slate-800 rounded-xl bg-[#0F0F11]">
           <div className="text-xl mb-1 text-slate-600">💼</div>
           <p className="text-xs font-semibold text-slate-300">No matching registry entries</p>
-          <p className="text-[10px] text-slate-550 mt-1 max-w-xs">
+          <p className="text-[10px] text-slate-500 mt-1 max-w-xs">
             Refine your query or register a new client/contact record using the workspace form.
           </p>
         </div>

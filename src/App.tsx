@@ -378,7 +378,7 @@ export default function App() {
                 <h2 className="text-sm md:text-base font-semibold text-slate-100 capitalize">
                   {activeTab === 'dashboard' ? 'Business Directory' : activeTab === 'form' ? 'Toro Record Input' : 'Spreadsheet Records'}
                 </h2>
-                <p className="text-[10px] md:text-xs text-slate-505 text-slate-500">Live storage feed from connected drive</p>
+                <p className="text-[10px] md:text-xs text-slate-500">Live storage feed from connected drive</p>
               </div>
 
               {/* Action and User details */}
